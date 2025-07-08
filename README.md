@@ -1,2 +1,2 @@
 # mnotes
-My private repo
+My repository that is published ! 
